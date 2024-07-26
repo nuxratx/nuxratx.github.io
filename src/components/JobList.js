@@ -86,8 +86,8 @@ const JobList = () => {
       jobTitle: "Associate Engineer @",
       duration: "2023-PRESENT",
       desc: [
-        "Interacted with senior engineers and product management to understand the product.",
-        "Pre and post release Regression testing "
+        "Work alongside lead engineers to understand to understand the product",
+        "Help with pre and post release regression test, validating changes to ensure no discrepencies"
       
       ]
     },

@@ -63,7 +63,7 @@ class About extends React.Component {
               {[two]}
             </div>
             <div className="about-image">
-              <img alt="My-picture" src={"/assets/me2.JPG"} />
+              <img alt="My-picture" src={"/assets/myself.JPG"} />
             </div>
           </div>
         </FadeInSection>

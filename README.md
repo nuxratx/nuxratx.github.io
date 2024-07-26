@@ -8,7 +8,8 @@
   The first iteration of <a href="https://nuxratx.github.io/" target="_blank">nuxratx.github.io</a> built with React.js leveraging Material UI.
 </p>
 
-<img width="1306" alt="website.png" src="https://user-images.githubusercontent.com/32211479/111238274-24f8b100-85cd-11eb-9d5a-00f07cbc05e9.png">
+
+<img width="1306" alt="website.png" src="">
 
 ## 🛠 set-up
 
