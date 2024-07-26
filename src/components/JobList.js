@@ -87,7 +87,7 @@ const JobList = () => {
       duration: "2023-PRESENT",
       desc: [
         "Work alongside lead engineers to understand the product",
-        ""
+        
       
       ]
     },
@@ -95,20 +95,13 @@ const JobList = () => {
       jobTitle: "Master's Student @",
       duration: "2024-2026",
       desc: [
-        "Specializing in strategies that use advanced analytics, artificial intelligence and automation to fight cyberthreats more effectively and minimize the impact of cyberattacks.",
+        "Specializing in strategies that use advanced analytics, artificial intelligence and automation to fight cyberthreats more effectively and minimize the impact of cyberattacks",
         "Deeply interested in how humans can better protect their data and privacy ",
-        ""
+        
       ]
     },
     
     
-    // TDSB: {
-    //   jobTitle: "Software Engineer @",
-    //   duration: "SEPT 2019 - DEC 2020",
-    //   desc: [
-    //     "Co-developed homework management software integrable with Google Classroom by utilizing the Python’s Flask micro-framework for the back-end API and Vue.js for the front-end UI, in order to translate business requirements into a functional full-stack application."
-    //   ]
-    // },
     
   };
 
