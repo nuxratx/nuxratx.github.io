@@ -50,7 +50,7 @@ class About extends React.Component {
           <div className="about-content box">
             <div className="about-description">
               {[one]}
-              {"Here are some roles I have been trusted with:"}
+              {"Here are some responsibilities I have been trusted with:"}
               <ul className="tech-stack">
                 {tech_stack.map(function (tech_item, i) {
                   return (
