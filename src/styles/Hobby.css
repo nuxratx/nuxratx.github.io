@@ -1,0 +1,125 @@
+#hobby {
+    margin: auto;
+    padding-top: 100px;
+  max-width: 1000px;
+  min-height: 50vh;
+  }
+  
+  .pojects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(370px, 1fr));
+    grid-gap: 10px;
+  }
+  @media (max-width: 1080px) {
+    .p-grid {
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+  }
+  
+  .projects-card {
+    position: relative;
+    cursor: default;
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start; */
+    position: relative;
+    height: 100%;
+    padding: 2rem 1.75rem;
+    background-color: var(--white);
+    border-radius: 19px;
+  }
+  
+  .philosophy-card:hover {
+    transform: translateY(-7px);
+    background-color: var(--white);
+  }
+  
+  .card-header {
+    margin-top: -20px;
+    display: flex;
+    padding: 1.25em 0 !important;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: none !important;
+  }
+  .hiking-icon {
+    color: var(--green-bright);
+  }
+  
+  
+  .card-title {
+    font-family: "NTR", sans-serif;
+    color: var(--lightest-slate);
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .card-desc {
+    font-family: "NTR", sans-serif;
+    color: var(--slate);
+    font-size: 18px;
+    padding-bottom: 40px;
+  }
+  
+  
+  
+  /* Spotlight carousel */
+  .carousel.slide {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-bottom: 60px;
+  }
+  
+  .carousel-inner {
+    height: 500px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  }
+  
+  .carousel-inner:hover {
+    transform: scale(1.02);
+  }
+  
+  .carousel img {
+    object-fit: contain;
+    height: 100%;
+    opacity: 0.7;
+  }
+  
+  .carousel-caption {
+    font-family: "NTR", sans-serif;
+    max-width: 500px;
+    right: unset !important;
+    left: 75% !important;
+    user-select: none;
+  }
+  
+  .carousel-caption h3 {
+    font-size: 60px;
+    font-weight: bold;
+    color: var(--white);
+  }
+  
+  .carousel-caption p {
+    font-family: "NTR", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: var(--white);
+  }
+  
+  
+  .carousel-indicators .active {
+    background-color: var(--green-bright);
+  }
+  
+  @media only screen and (max-width: 600px) {
+    #projects {
+      height: unset;
+      padding-left: unset;
+      padding-right: unset;
+    }
+    .carousel {
+      display: none;
+    }
+  }
+  
