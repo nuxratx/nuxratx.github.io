@@ -9,7 +9,7 @@
 </p>
 
 
-<img width="1306" alt="website.png" src="">
+<img width="1306" alt="website.png" src="https://raw.githubusercontent.com/nuxratx/nuxratx.github.io/main/public/assets/website.png">
 
 ## 🛠 set-up
 
