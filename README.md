@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
+  <img src="https://icons8.com/icon/67h9iFnFBLlF/camping-van"/>
 </p>
 <h1 align="center">
   nuxratx.github.io
@@ -38,7 +38,7 @@
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
-|Purple            21161f
+|            
 
 
 
