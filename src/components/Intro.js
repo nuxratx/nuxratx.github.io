@@ -34,9 +34,9 @@ class Intro extends React.Component {
           </span>
         </Typist>
         <FadeInSection>
-          <div className="intro-subtitle">Enthusiastic life long learner</div>
+          <div className="intro-subtitle"> I like to do creative stuff.</div>
           <div className="intro-desc">
-            I'm an engineer's associate based in NYC. I am fascinated by automation, scripting and computer programming.
+            I'm an engineer's associate based in NYC. I am fascinated by automation, scripting and computer programming logic.
             I think it's a privilege to be able to understand how our lives are so intertwined with technology. 
           
           </div>

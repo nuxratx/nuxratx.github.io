@@ -86,7 +86,8 @@ const JobList = () => {
       jobTitle: "Associate Engineer @",
       duration: "2023-PRESENT",
       desc: [
-        "Work alongside lead engineers to understand the product",
+        "Work alongside lead engineers as a junior engineer"
+        
         
       
       ]
@@ -96,7 +97,7 @@ const JobList = () => {
       duration: "2024-2026",
       desc: [
         "Specializing in strategies that use advanced analytics, artificial intelligence and automation to fight cyberthreats more effectively and minimize the impact of cyberattacks",
-        "Deeply interested in how humans can better protect their data and privacy ",
+        "Deeply interested in how humans can better protect their data and privacy "   
         
       ]
     },
