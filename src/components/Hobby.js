@@ -66,19 +66,19 @@ class Projects extends React.Component {
     const projects = {
       "Art Leob Trail": {
         desc:
-        "A sweet summer treat. Roughly 30.1 miles",
+        "A sweet summer treat. Roughly 30.1 miles. August is optimal", 
         techStack: "Roughly 30.1 miles",
         open: "https://www.hikewnc.info/trailheads/pisgah-national-forest/long-distance/art-loeb-trail/"
       },
       "Colorado Trail": {
         desc:
-        "A 567 miles of a moody trail ",
+        "A 567 miles of a moody trail. Summer is optimal",
   
         open: "https://www.hikewnc.info/trailheads/pisgah-national-forest/long-distance/art-loeb-trail/"
       },
       "The North-Placid Trail ": {
         desc:
-        "Challenging yet rewarding trail. About 135 miles from Northville to Lake Placid",
+        "About 135 miles from Northville to Lake Placid. Not a beginner trail",
         techStack: " About 135 miles from Northville to Lake Placid",
         open:
           "https://www.adirondack.net/hiking/challenges/northville-placid-trail/"
