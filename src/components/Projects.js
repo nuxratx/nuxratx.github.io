@@ -54,7 +54,7 @@ class Projects extends React.Component {
     const projects = {
       "is it letter 't' ?": {
         desc:
-          "When my sister complained that her summer vacation is too boring, I gifted this to her and she appeared to be less bored",
+          "When my sister complained that her summer vacation is too boring, I gifted this to her. Indeed she appeared to be less bored for next couple of days",
         techStack: "python, Jupyter, CLI",
        
       },
