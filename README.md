@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://icons8.com/icon/67h9iFnFBLlF/camping-van"/>
+  <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
 </p>
 <h1 align="center">
   nuxratx.github.io
