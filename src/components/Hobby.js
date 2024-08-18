@@ -25,8 +25,8 @@ class Projects extends React.Component {
         title:"",
         image: "/assets/utah.jpeg"
       },
-      "High Sierra": {
-        title: "High Sierra",
+      "Utah": {
+        title: "Utah",
         image: "/assets/utah.jpeg"
       },
       Truth: {

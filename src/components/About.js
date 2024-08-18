@@ -22,8 +22,8 @@ class About extends React.Component {
         I am currently an <b>engineer's associate</b> at
         <a href=""> Wells Fargo</a>, working in the Equity Derivatives
         sector. At the same time, I am also undertaking a
-        part-time <b> Master's of Science</b> in <b> Cybersecurity</b> @{" "}
-        <a href="https://engineering.nyu.edu/">NYU</a>.
+        part-time<b> Master's of Science</b> in<b> Computer Science</b> @{" "}
+        <a href="https://engineering.nyu.edu/">NYU</a> specializing in cybersecurity.
       </p>
     );
     const two = (
