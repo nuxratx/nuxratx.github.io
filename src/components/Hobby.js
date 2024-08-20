@@ -93,7 +93,7 @@ class Projects extends React.Component {
     };
 
     return (
-      <div id="projects">
+      <div id="Hobby">
         <div className="section-header ">
           <span className="section-title">/ passion projects</span>
               
