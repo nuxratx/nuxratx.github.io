@@ -21,10 +21,7 @@ class Projects extends React.Component {
   }
   render() {
     const spotlightProjects = {
-      "first":{
-        title:"",
-        image: "/assets/utah.jpeg"
-      },
+      
       "Utah": {
         title: "Utah",
         image: "/assets/utah.jpeg"
