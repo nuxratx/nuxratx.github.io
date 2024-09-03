@@ -3,4 +3,9 @@
     padding-top: 100px;
     max-width: 1000px;
     min-height: 50vh;
+    color: red;
     }
+
+#form h1 {
+    color: white;
+}

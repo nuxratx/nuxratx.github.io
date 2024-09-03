@@ -6,6 +6,8 @@ import Projects from "./components/Projects";
 import Hobby from "./components/Hobby";
 import Credits from "./components/Credits";
 import NavBar from "./components/NavBar";
+import Form from "./components/Form";
+
 import "./App.css";
 import "./styles/Global.css";
 import "rsuite/dist/styles/rsuite-default.css";
@@ -20,6 +22,7 @@ function App() {
         <Experience></Experience>
         <Projects></Projects>
         <Hobby></Hobby>
+        <Form></Form>
         <Credits></Credits>
       </div>
     </div>

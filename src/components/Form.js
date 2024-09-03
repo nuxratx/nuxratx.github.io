@@ -1,5 +1,6 @@
 import React from "react";
-import "../styles/form.css";
+import "../styles/Form.css";
+import FadeInSection from "./FadeInSection";
 
 
 class Form extends React.Component {
@@ -26,7 +27,10 @@ class Form extends React.Component {
               <h1>My Form</h1>
               <form>
                   <label htmlFor="name">Name:</label>
-                  <input type="text" id="name" name="name" />
+                  <input type="text" id="name" name="name"/>
+                  <div>     
+                  <textarea id="text5" name="text5" rows="4" cols="50" placeholder="What is your favorite flower?"></textarea>
+                  </div>
                   <button type="submit">Submit</button>
               </form>
               </FadeInSection>
