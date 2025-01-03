@@ -6,7 +6,7 @@ import Projects from "./components/Projects";
 import Hobby from "./components/Hobby";
 import Credits from "./components/Credits";
 import NavBar from "./components/NavBar";
-import Form from "./components/Form";
+import Product from "./components/Product";
 
 import "./App.css";
 import "./styles/Global.css";
@@ -22,7 +22,7 @@ function App() {
         <Experience></Experience>
         <Projects></Projects>
         <Hobby></Hobby>
-        <Form></Form>
+        <Product></Product>
         <Credits></Credits>
       </div>
     </div>

@@ -9,3 +9,10 @@
 #form h1 {
     color: white;
 }
+.product-item-meta {
+    margin: auto;
+    padding-top: 10px;
+    max-width: 700px;
+    min-height: 40vh;
+    color: red;
+}

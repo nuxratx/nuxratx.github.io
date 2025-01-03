@@ -3,7 +3,7 @@ import "../styles/Hobby.css";
 import FadeInSection from "./FadeInSection";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import Carousel from "react-bootstrap/Carousel";
-import ExternalLinks from "./ExternalLinks";
+
 
 class Projects extends React.Component {
   constructor() {
